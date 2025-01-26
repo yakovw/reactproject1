@@ -29,6 +29,7 @@ const Greeting = () => {
             />
             <button
                 onClick={handleButtonClick}
+
                 style={{
                     padding: '10px 20px',
                     fontSize: '16px',
